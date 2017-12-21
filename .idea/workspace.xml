@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26da21e9-d4d2-4cae-99f4-1f8a562d1597" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica13/guerras/mundiales/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica13/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practica13/generales/edad-moderna/antes-s-xx/napoleon.html" afterPath="$PROJECT_DIR$/practica13/generales/edad-moderna/antes-s-xx/napoleon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practica13/index.html" afterPath="$PROJECT_DIR$/practica13/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,16 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practica11/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="95" column="15" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practica13/guerras/mundiales/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,8 +36,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practica13/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="82" column="100" lean-forward="false" selection-start-line="82" selection-start-column="100" selection-end-line="82" selection-end-column="100" />
+            <state relative-caret-position="468">
+              <caret line="85" column="108" lean-forward="false" selection-start-line="85" selection-start-column="108" selection-end-line="85" selection-end-column="108" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="napoleon.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practica13/generales/edad-moderna/antes-s-xx/napoleon.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="14" lean-forward="false" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -64,6 +64,7 @@
         <option value="$PROJECT_DIR$/practica11/index.html" />
         <option value="$PROJECT_DIR$/practica 12/index12.html" />
         <option value="$PROJECT_DIR$/practica13/guerras/mundiales/index.html" />
+        <option value="$PROJECT_DIR$/practica13/generales/edad-moderna/antes-s-xx/napoleon.html" />
         <option value="$PROJECT_DIR$/practica13/index.html" />
       </list>
     </option>
@@ -106,11 +107,6 @@
             <path>
               <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
-              <item name="practica11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
               <item name="practica13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,23 +127,15 @@
               <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
               <item name="practica13" type="462c0819:PsiDirectoryNode" />
               <item name="generales" type="462c0819:PsiDirectoryNode" />
-              <item name="edad-antigua" type="462c0819:PsiDirectoryNode" />
-              <item name="grecia" type="462c0819:PsiDirectoryNode" />
+              <item name="edad-moderna" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
               <item name="practica13" type="462c0819:PsiDirectoryNode" />
               <item name="generales" type="462c0819:PsiDirectoryNode" />
-              <item name="edad-antigua" type="462c0819:PsiDirectoryNode" />
-              <item name="roma" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
-              <item name="practica13" type="462c0819:PsiDirectoryNode" />
-              <item name="generales" type="462c0819:PsiDirectoryNode" />
-              <item name="edad-media" type="462c0819:PsiDirectoryNode" />
+              <item name="edad-moderna" type="462c0819:PsiDirectoryNode" />
+              <item name="antes-s-xx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
@@ -186,20 +174,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.napoleon.html">
     <configuration name="index12.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica 12/index12.html" />
     <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica13/guerras/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica11/index.html" />
-    <list size="3">
+    <configuration name="napoleon.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica13/generales/edad-moderna/antes-s-xx/napoleon.html" />
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index12.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.napoleon.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index12.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.napoleon.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index12.html" />
       </list>
     </recent_temporary>
   </component>
@@ -215,23 +206,23 @@
       <updated>1513240317339</updated>
       <workItem from="1513240318524" duration="2197000" />
       <workItem from="1513841188339" duration="504000" />
-      <workItem from="1513841723673" duration="3503000" />
+      <workItem from="1513841723673" duration="5370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6204000" />
+    <option name="totallyTimeSpent" value="8071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16614583" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16614583" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32661718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32661718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -321,10 +312,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practica13/generales/edad-moderna/antes-s-xx/napoleon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="14" lean-forward="false" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practica11/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="95" column="15" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        <state relative-caret-position="487">
+          <caret line="87" column="42" lean-forward="true" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -344,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practica13/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="82" column="100" lean-forward="false" selection-start-line="82" selection-start-column="100" selection-end-line="82" selection-end-column="100" />
+        <state relative-caret-position="468">
+          <caret line="85" column="108" lean-forward="false" selection-start-line="85" selection-start-column="108" selection-end-line="85" selection-end-column="108" />
           <folding />
         </state>
       </provider>
