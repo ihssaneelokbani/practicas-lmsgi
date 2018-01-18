@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>tables</title>
+    <style type="text/css">
+
+        table{
+            width: 50%;
+        }
+        #titulo{
+            background-color: gray;
+            color: black;
+        }
+          #titulo  th{
+              color: white;
+          }
+        #datos{
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <tr>
+          <th> </th>
+        <th>lunes</th>
+        <th>Martes</th>
+        <th>Miercoles</th>
+    </tr>
+    <tr>
+        <th>8:15</th>
+        <td>GBD</td>
+        <td>Redes</td>
+        <td>GBD</td>
+    </tr>
+    <tr>
+        <th>9:10</th>
+        <td>GBD</td>
+        <td>Redes</td>
+        <td>GBD</td>
+    </tr>
+    <tr>
+        <th>10:05</th>
+        <td>fol</td>
+        <td>ISO</td>
+        <td>ISO</td>
+    </tr>
+</table>
+    <table border="1">
+        <caption>Ventas en euros</caption>
+        <colgroup>
+            <col id="titulo">
+            <col span="2" id="datos">
+            <col id="segunda">
+            <col id="tercera">
+        </colgroup>
+        <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <th>España</th>
+            <th>Francia</th>
+        </tr>
+        </thead>
+        <tfoot>
+        <tr>
+            <th>Total</th>
+            <td>290.000</td>
+            <td>395.000</td>
+        </tr>
+        </tfoot>
+        <tbody>
+        <tr>
+            <th>Vino</th>
+            <td>80.000</td>
+            <td>95.000</td>
+        </tr>
+
+        <tr>
+            <th>Trigo</th>
+            <td>210.000</td>
+            <td>300.000</td>
+        </tr>
+        </tbody>
+
+    </table>
+
+
+
+</body>
+</html>

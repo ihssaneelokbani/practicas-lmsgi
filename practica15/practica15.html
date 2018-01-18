@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<h1>Imagen intercambiale</h1>
+
+    <picture>
+
+
+        <source media="(min-width: 1200px)" srcset="img/monitor.svg">
+        <source media="(min-width: 900px)" srcset="img/portatil.svg">
+
+        <img src="img/smartphone.svg" alt="smartphone">
+    </picture>
+
+<h2>
+    Imagen en dos formatos
+</h2>
+<picture>
+    <source  srcset="img/vietnam.webp" type="image/webp">
+    <img src="img/vietnam.jpg" alt="vietnam" width="500px" >
+</picture>
+<h2>
+    Educación
+</h2>
+<h2>
+    cavanas
+</h2>
+<canvas width="300" height="300" id="canvas"></canvas>
+
+<h2>
+    Video en varios formatos y con subtítulos
+</h2>
+<video width="400" controls poster="video/poster.jpg">
+    <source src="video/saas.webm" type="video/webm">
+    <source src="video/saas.ogv" type="video/ogg">
+    <source src="video/saas.mp4" type="video/mp4">
+    <track src="video/saas-en.vtt" srclang="en" label="Inglés">
+    <track src="video/saas-es.vtt" srclang="es" label="Español">
+
+</video>
+<h2>
+   Audio(suena automa
+</h2>
+<audio controls autoplay>
+    <source src="audio/cancion.mp2" type="audio/mpeg">
+    <source src="audio/cancion.aiff" type="audio/aiff">
+    <source src="audio/cancion.mp3" type="audio/mpeg">
+</audio>
+<script src="otros/canvas.js"></script>
+</body>
+</html>
