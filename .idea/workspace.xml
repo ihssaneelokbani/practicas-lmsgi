@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26da21e9-d4d2-4cae-99f4-1f8a562d1597" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/audio/cancion.aiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/audio/cancion.mp2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/audio/cancion.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/img/vietnam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/img/vietnam.webp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/creditos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/img/monitor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/img/portatil.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/img/smartphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/otros/canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/otros/math.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/practica15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas-en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas-en.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas-es.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica15/video/saas-es.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tablas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tablas/tabla2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practica17/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tablas/tabla2.html" afterPath="$PROJECT_DIR$/tablas/tabla2.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,46 +17,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tablas/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practica17/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
               <folding>
-                <element signature="e#1342#1348#1" expanded="true" />
+                <element signature="e#1899#1905#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tabla2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tabla2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tablas/tabla2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <element signature="e#548#554#1" expanded="true" />
-                <element signature="e#573#579#1" expanded="true" />
-                <element signature="e#609#615#1" expanded="true" />
-                <element signature="e#645#651#1" expanded="true" />
-                <element signature="e#701#707#1" expanded="true" />
-                <element signature="e#726#732#1" expanded="true" />
-                <element signature="e#750#756#1" expanded="true" />
-                <element signature="e#774#780#1" expanded="true" />
-                <element signature="e#798#804#1" expanded="true" />
-                <element signature="e#822#828#1" expanded="true" />
-                <element signature="e#865#871#1" expanded="true" />
-                <element signature="e#902#908#1" expanded="true" />
-                <element signature="e#971#977#1" expanded="true" />
-                <element signature="e#1062#1068#1" expanded="true" />
-                <element signature="e#1098#1104#1" expanded="true" />
-                <element signature="e#1134#1140#1" expanded="true" />
-                <element signature="e#1217#1223#1" expanded="true" />
-                <element signature="e#1265#1271#1" expanded="true" />
-                <element signature="e#1289#1295#1" expanded="true" />
-                <element signature="e#1334#1340#1" expanded="true" />
-                <element signature="e#1359#1365#1" expanded="true" />
+                <element signature="e#614#620#1" expanded="true" />
+                <element signature="e#639#645#1" expanded="true" />
+                <element signature="e#675#681#1" expanded="true" />
+                <element signature="e#711#717#1" expanded="true" />
+                <element signature="e#767#773#1" expanded="true" />
+                <element signature="e#792#798#1" expanded="true" />
+                <element signature="e#816#822#1" expanded="true" />
+                <element signature="e#840#846#1" expanded="true" />
+                <element signature="e#864#870#1" expanded="true" />
+                <element signature="e#888#894#1" expanded="true" />
+                <element signature="e#931#937#1" expanded="true" />
+                <element signature="e#968#974#1" expanded="true" />
+                <element signature="e#1037#1043#1" expanded="true" />
+                <element signature="e#1128#1134#1" expanded="true" />
+                <element signature="e#1164#1170#1" expanded="true" />
+                <element signature="e#1200#1206#1" expanded="true" />
+                <element signature="e#1283#1289#1" expanded="true" />
+                <element signature="e#1331#1337#1" expanded="true" />
+                <element signature="e#1355#1361#1" expanded="true" />
+                <element signature="e#1400#1406#1" expanded="true" />
+                <element signature="e#1425#1431#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,6 +79,7 @@
         <option value="$PROJECT_DIR$/practica15/practica15.html" />
         <option value="$PROJECT_DIR$/tablas/index.html" />
         <option value="$PROJECT_DIR$/tablas/tabla2.html" />
+        <option value="$PROJECT_DIR$/practica17/index.html" />
       </list>
     </option>
   </component>
@@ -108,7 +89,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="611" />
     <option name="width" value="1292" />
     <option name="height" value="1047" />
@@ -129,8 +110,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,26 +173,7 @@
             <path>
               <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="otros" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicas-lmsgi" type="462c0819:PsiDirectoryNode" />
-              <item name="practica15" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
+              <item name="practica17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practicas-lmsgi" type="b2602c69:ProjectViewProjectNode" />
@@ -241,26 +203,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica13/guerras/index.html" />
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/tablas/index.html" />
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica11/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica17/index.html" />
     <configuration name="napoleon.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica13/generales/edad-moderna/antes-s-xx/napoleon.html" />
     <configuration name="practica15.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/practica15/practica15.html" />
+    <configuration name="tabla2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practicas-lmsgi/tablas/tabla2.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.napoleon.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.practica15.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.napoleon.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.practica15.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.tabla2.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.practica15.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.napoleon.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.tabla2.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.practica15.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.napoleon.html" />
       </list>
     </recent_temporary>
   </component>
@@ -279,16 +241,16 @@
       <workItem from="1513841723673" duration="5486000" />
       <workItem from="1516001211566" duration="544000" />
       <workItem from="1516002355304" duration="5022000" />
-      <workItem from="1516260210682" duration="4970000" />
+      <workItem from="1516260210682" duration="6169000" />
+      <workItem from="1516865028452" duration="5778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18723000" />
+    <option name="totallyTimeSpent" value="25700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110416666" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -296,7 +258,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32343584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32343584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -337,6 +299,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tablas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#1342#1348#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablas/tabla2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#614#620#1" expanded="true" />
+            <element signature="e#639#645#1" expanded="true" />
+            <element signature="e#675#681#1" expanded="true" />
+            <element signature="e#711#717#1" expanded="true" />
+            <element signature="e#767#773#1" expanded="true" />
+            <element signature="e#792#798#1" expanded="true" />
+            <element signature="e#816#822#1" expanded="true" />
+            <element signature="e#840#846#1" expanded="true" />
+            <element signature="e#864#870#1" expanded="true" />
+            <element signature="e#888#894#1" expanded="true" />
+            <element signature="e#931#937#1" expanded="true" />
+            <element signature="e#968#974#1" expanded="true" />
+            <element signature="e#1037#1043#1" expanded="true" />
+            <element signature="e#1128#1134#1" expanded="true" />
+            <element signature="e#1164#1170#1" expanded="true" />
+            <element signature="e#1200#1206#1" expanded="true" />
+            <element signature="e#1283#1289#1" expanded="true" />
+            <element signature="e#1331#1337#1" expanded="true" />
+            <element signature="e#1355#1361#1" expanded="true" />
+            <element signature="e#1400#1406#1" expanded="true" />
+            <element signature="e#1425#1431#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practica13/guerras/mundiales/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -442,46 +444,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tablas/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="403">
           <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding>
-            <element signature="e#1342#1348#1" expanded="true" />
+            <element signature="e#1342#1348#1" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tablas/tabla2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#548#554#1" expanded="true" />
-            <element signature="e#573#579#1" expanded="true" />
-            <element signature="e#609#615#1" expanded="true" />
-            <element signature="e#645#651#1" expanded="true" />
-            <element signature="e#701#707#1" expanded="true" />
-            <element signature="e#726#732#1" expanded="true" />
-            <element signature="e#750#756#1" expanded="true" />
-            <element signature="e#774#780#1" expanded="true" />
-            <element signature="e#798#804#1" expanded="true" />
-            <element signature="e#822#828#1" expanded="true" />
-            <element signature="e#865#871#1" expanded="true" />
-            <element signature="e#902#908#1" expanded="true" />
-            <element signature="e#971#977#1" expanded="true" />
-            <element signature="e#1062#1068#1" expanded="true" />
-            <element signature="e#1098#1104#1" expanded="true" />
-            <element signature="e#1134#1140#1" expanded="true" />
-            <element signature="e#1217#1223#1" expanded="true" />
-            <element signature="e#1265#1271#1" expanded="true" />
-            <element signature="e#1289#1295#1" expanded="true" />
-            <element signature="e#1334#1340#1" expanded="true" />
-            <element signature="e#1359#1365#1" expanded="true" />
+            <element signature="e#614#620#1" expanded="true" />
+            <element signature="e#639#645#1" expanded="true" />
+            <element signature="e#675#681#1" expanded="true" />
+            <element signature="e#711#717#1" expanded="true" />
+            <element signature="e#767#773#1" expanded="true" />
+            <element signature="e#792#798#1" expanded="true" />
+            <element signature="e#816#822#1" expanded="true" />
+            <element signature="e#840#846#1" expanded="true" />
+            <element signature="e#864#870#1" expanded="true" />
+            <element signature="e#888#894#1" expanded="true" />
+            <element signature="e#931#937#1" expanded="true" />
+            <element signature="e#968#974#1" expanded="true" />
+            <element signature="e#1037#1043#1" expanded="true" />
+            <element signature="e#1128#1134#1" expanded="true" />
+            <element signature="e#1164#1170#1" expanded="true" />
+            <element signature="e#1200#1206#1" expanded="true" />
+            <element signature="e#1283#1289#1" expanded="true" />
+            <element signature="e#1331#1337#1" expanded="true" />
+            <element signature="e#1355#1361#1" expanded="true" />
+            <element signature="e#1400#1406#1" expanded="true" />
+            <element signature="e#1425#1431#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica17/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#1899#1905#0" expanded="true" />
           </folding>
         </state>
       </provider>
